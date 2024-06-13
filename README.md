@@ -1,12 +1,11 @@
 <img align="right" height="120" src="https://i.ibb.co/L9wBcmY/dev-img.gif"/>
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavindu+Mihiran!;" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kavindu+Mihiran!" />
 </h1>
 
 ---
 
 ### 🌐 Socials:
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/gmkavindu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="linkedin logo" />
@@ -66,16 +65,21 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="32" alt="postman logo" />
 </div>
 
-
 ### 📊 GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gmkavindu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmkavindu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="130" alt="languages graph"  /> <img src="https://streak-stats.demolab.com?user=gmkavindu&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=9&order=3" height="130" alt="streak graph"  /> <img src="https://github-profile-trophy.vercel.app?username=gmkavindu&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> </div>
-
-### 🔝 Top Contributed Repo
-<div align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=gmkavindu&limit=5&theme=radical&combine_all_yearly_contributions=true" height="180"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gmkavindu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="130" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmkavindu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="130" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=gmkavindu&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=9&order=3" height="130" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=gmkavindu&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
+### 🔝 Top Contributed Repo
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=gmkavindu&limit=5&theme=radical&combine_all_yearly_contributions=true" height="180" />
+</div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=gmkavindu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br clear="both"> <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gmkavindu/gmkavindu/output/snake.svg" alt="Snake animation" />
