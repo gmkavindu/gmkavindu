@@ -39,7 +39,7 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" height="32" alt="numpy logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" alt="pandas logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="32" alt="azure logo" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="32" alt="azure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="arduino logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="django logo" />
@@ -67,9 +67,9 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmkavindu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="130" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gmkavindu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="130" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=gmkavindu](https://nirzak-streak-stats.vercel.app/?user=gmkavindu&theme=aura&hide_border=false" height="130" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gmkavindu&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="130" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmkavindu&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="130" alt="languages graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gmkavindu&theme=aura&hide_border=false" height="130" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app?username=gmkavindu&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
