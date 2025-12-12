@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gmkavindu&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="130" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmkavindu&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="130" alt="languages graph" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=gmkavindu&theme=aura&hide_border=false" height="130" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=gmkavindu&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  
 </div>
 
 ### 🔝 Top Contributed Repo
