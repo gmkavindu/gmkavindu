@@ -40,7 +40,3 @@
 
 <img src="https://raw.githubusercontent.com/gmkavindu/gmkavindu/output/snake.svg" alt="Snake animation" />
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="gmkavindu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/gmkavindu?trk=profile-badge">Kavindu Mihiran</a></div>
-              
