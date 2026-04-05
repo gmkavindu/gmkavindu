@@ -135,7 +135,7 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gmkavindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://trophy.ryglcloud.net/?username=gmkavindu&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 
 </div>
 
@@ -147,6 +147,14 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmkavindu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" alt="Activity Graph" width="100%"/>
 
+</div>
+
+---
+
+### 🏙️ Contribution City
+
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City Contribution Graph" width="100%" />
 </div>
 
 ---
